@@ -5,6 +5,7 @@ fr:
     older: 'Anciens'
     newer: 'Récents'
     feed: 'Flux'
+    like: 'Aimer'
     share: 'Partager'
     close: 'Fermer'
     next_post: 'Article suivant'
