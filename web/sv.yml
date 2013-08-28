@@ -14,4 +14,4 @@ sv:
       message: 'Du kan ha skrivit in fel adress eller så har inlägget tagits bort.'
     blog_not_found:
       title: 'Bloggen kunde inte hittas.'
-      message: 'Du kan ha skrivit in fel URL eller den här bloggen inte längre existerar.'
+      message: 'Du kan ha skrivit in fel webbadress eller den här bloggen inte längre existerar.'
