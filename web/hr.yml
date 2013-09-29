@@ -3,7 +3,7 @@ hr:
     comment_on_twitter: 'Komentiraj na Twitteru'
     older: 'Starije'
     newer: 'Novije'
-    feed: 'ATOM novosti'
+    feed: 'Atom novosti'
     like: 'Sviđa mi se'
     share: 'Podijeli'
     close: 'Zatvori'
