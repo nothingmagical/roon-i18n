@@ -1,21 +1,59 @@
-# From https://gist.github.com/soffes/6350117#comment-895561
-el: # el-GR:
+# Roon Viewer
+#
+# This is the locale file for the Roon Viewer. The Viewer is the part of Roon
+# that shows users' blogs. Example: <http://sam.roon.io>
+#
+# Don't translate anything that starts with `#`. That is just a comment for
+# the translator!
+en:
   viewer:
+    # Button to allow the reader to comment on the current post on Twitter
     comment_on_twitter: 'Σχολιασμός στο Twitter'
+
+    # Button to view older posts
     older: 'Παλαιότερα'
+
+    # Button to view newer posts
     newer: 'Νεότερα'
+
+    # Tooltip for ATOM (similar to RSS) feed button
     feed: 'Feed'
+
+    # Tooltip for a button to like the current post
     like: 'Μου αρέσει'
+
+    # Tooltip for a button to share the current post on social networks
     share: 'Κοινοποίηση'
+
+    # Button to close the share screen
     close: 'Κλείσιμο'
+
+    # Tooltip for a button to see the next post
     next_post: 'Επόμενη Δημοσίευση'
+
+    # Tooltip for a button to see the previous post
     previous_post: 'Προηγοήμενη Δημοσίευση'
+
+    # Sentence explaining that the author hasn't written any posts yet.
     no_posts: 'Καμία δημοσίευση.'
+
     post_not_found:
+      # Title for the error when a post isn't found.
       title: 'Η δημοσίευση δε βρέθηκε'
+
+      # Sentence for the error when a post isn't found.
       message: 'Υπάρχει περίπτωση να πληκτρολογήσατε λανθασμένη διεύθυνση ή η συγκεκριμένη δημοσίευση να έχει διαγραφεί.'
+
     blog_not_found:
+      # Title for the error when a blog isn't found.
       title: 'Το ιστολόγιο δε βρέθηκε'
+
+      # Sentence for the error when a blog isn't found.
       message: 'Υπάρχει περίπτωση να πληκτρολογήσατε λανθασμένη διεύθυνση ή το συγκεκριμένο ιστολόγιο να μην υπάρχει πλέον.'
+
+    # Description for search engines and social networks
+    # `%{title}` is where the post's title will go. Don't change this.
+    # `%{author}` is where the author's name will go. Don't change this.
+    # Simply translate the `by` and change the order of elements if needed.
     title_by_author: '%{title} από %{author}'
     
