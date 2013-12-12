@@ -5,7 +5,7 @@
 #
 # Don't translate anything that starts with `#`. That is just a comment for
 # the translator!
-en:
+el: # el-GR:
   viewer:
     # Button to allow the reader to comment on the current post on Twitter
     comment_on_twitter: 'Σχολιασμός στο Twitter'
