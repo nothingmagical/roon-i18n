@@ -16,4 +16,7 @@ bg:
     blog_not_found:
       title: 'Блогът не е открит'
       message: 'Може би сте въвели грешен адрес или блогът вече не съществува.'
-    title_by_author: '«%{title}» от %{author}'
+    title_by_author: '„%{title}“ от %{author}'
+    dont_share: 'Не споделяй тази връзка'
+    read_time: 'Чете се за %{minutes} минути'
+    preview_expired: 'Този преглед е изтекъл.'
