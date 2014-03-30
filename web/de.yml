@@ -18,6 +18,8 @@ de:
       title: 'Dieses Blog wurde nicht gefunden.'
       message: 'Du hast vielleicht die falsche URL eingegeben oder dieses Blog existiert nicht mehr.'
     title_by_author: '„%{title}“ von %{author}'
-    dont_share: 'Teile nicht diesen Link'
-    read_time: '%{minutes} Minuten lesen'
+    dont_share: 'Teile diesen Link bitte nicht'
+    read_time:
+      one: '1 Minute Lesezeit'
+      other: '%{minutes} Minuten Lesezeit'
     preview_expired: 'Diese Vorschau ist abgelaufen.'
