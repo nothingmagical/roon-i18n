@@ -19,4 +19,4 @@ ru:
     title_by_author: '«%{title}» — %{author}'
     dont_share: 'Не распространяйте эту ссылку'
     read_time: 'Читается за %{minutes} минут'
-    preview_expired: 'Срок действия предварительного просмотра истек.'
+    preview_expired: 'Срок предварительного просмотра истек.'
