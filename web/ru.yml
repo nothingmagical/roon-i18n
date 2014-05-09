@@ -1,8 +1,8 @@
 ru:
   viewer:
     comment_on_twitter: 'Комментировать в Твиттере'
-    older: 'Старее'
-    newer: 'Новее'
+    older: 'Ранее'
+    newer: 'Позднее'
     feed: 'Лента'
     like: 'Нравится'
     share: 'Поделиться'
