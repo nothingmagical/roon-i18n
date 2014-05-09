@@ -18,5 +18,5 @@ ru:
       message: 'Возможно, вы ввели неправильный адрес, или блог больше не существует.'
     title_by_author: '«%{title}» — %{author}'
     dont_share: 'Не распространяйте эту ссылку'
-    read_time: 'Читается за %{minutes} минут'
+    read_time: '%{minutes} мин.'
     preview_expired: 'Срок предварительного просмотра истек.'
