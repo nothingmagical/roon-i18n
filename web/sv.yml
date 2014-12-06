@@ -17,3 +17,6 @@ sv:
       title: 'Bloggen kunde inte hittas.'
       message: 'Du kan ha skrivit in fel adress eller så existerar inte bloggen längre.'
     title_by_author: '”%{title}” av %{author}'
+    dont_share: 'Dela inte denna länk'
+    read_time: '%{minutes} minut(er)s läsning'
+    preview_expired: 'Förhandsgranskningen har gått ut.'
