@@ -1,0 +1,22 @@
+hu:
+  viewer:
+    comment_on_twitter: 'Hozzászólás Twitteren'
+    older: 'Korábbi'
+    newer: 'Újabb'
+    feed: 'Feed'
+    like: 'Tetszik'
+    share: 'Megosztás'
+    close: 'Bezárás'
+    next_post: 'Következő bejegyzés'
+    previous_post: 'Előző bejegyzés'
+    no_posts: 'Nincs bejegyzés'
+    post_not_found:
+      title: 'Bejegyzés nem található'
+      message: 'Hibás címmel próbálkozol vagy törölve lett a bejegyzés.'
+    blog_not_found:
+      title: 'Blog nem található'
+      message: 'Hibás URL címet adtál meg vagy nem létezik ez a blog.'
+    title_by_author: '“%{title}” Szerző: %{author}'
+    dont_share: 'Nem osztható meg a link'
+    read_time: '%{minutes} olvasási idő'
+    preview_expired: 'Ez az előnézet lejárt.'
