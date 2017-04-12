@@ -3,7 +3,7 @@
 # This is the locale file for the Roon Viewer. The Viewer is the part of Roon
 # that shows users' blogs. Example: <http://sam.roon.io>
 #
-# Don't translate anything that starts with `#`. That is just a comment for
+# Don't translate anything that starts with "#". That is just a comment for
 # the translator! Please don't include them in your version.
 
 # Language code. Be sure this matches your file name (without the extension).

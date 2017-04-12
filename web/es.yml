@@ -1,4 +1,4 @@
-es: # Specifically South American Spanish
+es:
   viewer:
     comment_on_twitter: 'Coméntalo en Twitter'
     older: 'Lo viejo'
