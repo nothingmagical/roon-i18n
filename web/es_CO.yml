@@ -1,0 +1,22 @@
+es_CO:
+  viewer:
+    comment_on_twitter: 'Comentar en Twitter'
+    older: 'Anterior'
+    newer: 'Reciente'
+    feed: 'Feed'
+    like: 'Me gusta'
+    share: 'Compartir'
+    close: 'Cerrar'
+    next_post: 'Entrada siguiente'
+    previous_post: 'Entrada anterior'
+    no_posts: 'Todavía no hay entradas.'
+    post_not_found:
+      title: 'No se encontró la entrada'
+      message: 'Puede que hayas ingresado la dirección incorrecta o que la entrada haya sido removida.'
+    blog_not_found:
+      title: 'No se encontró el blog'
+      message: 'Puede que hayas ingresado la URL incorrecta o que este blog ya no exista.'
+    title_by_author: '“%{title}” por %{author}'
+    dont_share: 'No compartas este enlace.'
+    read_time: 'Lectura de %{minutes} minutos'
+    preview_expired: 'Esta vista previa ha expirado.'
